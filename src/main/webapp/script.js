@@ -3,7 +3,7 @@ const products = {
     mobiles: [
         {
             id: 'm3',
-            title: 'Oneminus 11 5G',
+            title: 'Oneplus 11 5G',
             price: 56999,
             image: 'https://m.media-amazon.com/images/I/61amb0CfMGL._SL1500_.jpg'
         },
